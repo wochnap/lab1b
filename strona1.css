@@ -1,6 +1,6 @@
 html, body  
 	{background: #cee7f4; 
-	 text-align: center; 
+	 text-align: left; 
 	 font-size: 1em; 
 	 font-family: calibri;
 	}
@@ -10,8 +10,9 @@ h1
 {color: #808080
 }
 
-@media only screen and (max-width: 1000px)
+@media only screen and (max-width: 680px)
+{
+body  { background-color: #62b1dd; }
 
-body {
- { background-color: #62b1dd; }
+.tekst {color: #800000}
 }
