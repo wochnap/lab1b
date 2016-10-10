@@ -1,0 +1,17 @@
+html, body  
+	{background: #cee7f4; 
+	 text-align: center; 
+	 font-size: 1em; 
+	 font-family: calibri;
+	}
+	
+
+h1
+{color: #808080
+}
+
+@media only screen and (max-width: 1000px)
+
+body {
+ { background-color: #62b1dd; }
+}
