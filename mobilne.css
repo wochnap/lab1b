@@ -1,0 +1,29 @@
+html, body  
+	{background: #8080c0; 
+	 text-align: left; 
+	 font-size: 1em; 
+	}
+.tekst
+{
+font-family: Calibri;
+font-size: 18px;
+color: white;
+text-align: justify;
+margin: auto;
+max-width:950px;
+}
+
+.tekst > img
+{
+    display: block;
+    margin-left: auto;
+    margin-right: auto }
+		
+.linki a:link
+{color: red;}
+
+.linki a:visited
+{ color: red
+;}
+
+#60b0e1
